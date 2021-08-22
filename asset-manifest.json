@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/FaceRecog/static/css/main.26d859b7.chunk.css",
-    "main.js": "/FaceRecog/static/js/main.2cf72978.chunk.js",
-    "main.js.map": "/FaceRecog/static/js/main.2cf72978.chunk.js.map",
-    "runtime-main.js": "/FaceRecog/static/js/runtime-main.088c3c98.js",
-    "runtime-main.js.map": "/FaceRecog/static/js/runtime-main.088c3c98.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/FaceRecog/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.235b4ccf.chunk.js": "/FaceRecog/static/js/2.235b4ccf.chunk.js",
-    "static/js/2.235b4ccf.chunk.js.map": "/FaceRecog/static/js/2.235b4ccf.chunk.js.map",
-    "static/js/3.49245890.chunk.js": "/FaceRecog/static/js/3.49245890.chunk.js",
-    "static/js/3.49245890.chunk.js.map": "/FaceRecog/static/js/3.49245890.chunk.js.map",
-    "index.html": "/FaceRecog/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/FaceRecog/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.26d859b7.chunk.css.map": "/FaceRecog/static/css/main.26d859b7.chunk.css.map",
-    "static/js/2.235b4ccf.chunk.js.LICENSE.txt": "/FaceRecog/static/js/2.235b4ccf.chunk.js.LICENSE.txt"
+    "main.css": "/Ashleysteph99/FaceRecog.git/static/css/main.26d859b7.chunk.css",
+    "main.js": "/Ashleysteph99/FaceRecog.git/static/js/main.2cf72978.chunk.js",
+    "main.js.map": "/Ashleysteph99/FaceRecog.git/static/js/main.2cf72978.chunk.js.map",
+    "runtime-main.js": "/Ashleysteph99/FaceRecog.git/static/js/runtime-main.c0af57a0.js",
+    "runtime-main.js.map": "/Ashleysteph99/FaceRecog.git/static/js/runtime-main.c0af57a0.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Ashleysteph99/FaceRecog.git/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c5b18bf2.chunk.js": "/Ashleysteph99/FaceRecog.git/static/js/2.c5b18bf2.chunk.js",
+    "static/js/2.c5b18bf2.chunk.js.map": "/Ashleysteph99/FaceRecog.git/static/js/2.c5b18bf2.chunk.js.map",
+    "static/js/3.49245890.chunk.js": "/Ashleysteph99/FaceRecog.git/static/js/3.49245890.chunk.js",
+    "static/js/3.49245890.chunk.js.map": "/Ashleysteph99/FaceRecog.git/static/js/3.49245890.chunk.js.map",
+    "index.html": "/Ashleysteph99/FaceRecog.git/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Ashleysteph99/FaceRecog.git/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.26d859b7.chunk.css.map": "/Ashleysteph99/FaceRecog.git/static/css/main.26d859b7.chunk.css.map",
+    "static/js/2.c5b18bf2.chunk.js.LICENSE.txt": "/Ashleysteph99/FaceRecog.git/static/js/2.c5b18bf2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.088c3c98.js",
+    "static/js/runtime-main.c0af57a0.js",
     "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.235b4ccf.chunk.js",
+    "static/js/2.c5b18bf2.chunk.js",
     "static/css/main.26d859b7.chunk.css",
     "static/js/main.2cf72978.chunk.js"
   ]
