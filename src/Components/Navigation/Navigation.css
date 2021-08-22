@@ -1,0 +1,15 @@
+
+
+.navibar {
+	display: flex;
+	justify-content: right;
+	padding: 3em;
+
+}
+
+button {
+	background-color: transparent;
+	border: transparent;
+	font-family: sans-serif;
+	
+}
