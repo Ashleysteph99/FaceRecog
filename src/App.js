@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Particles from 'react-particles-js';
 import FaceDisplay from './Components/FaceRecog/FaceDisplay.js';
-
+import Logo from './Components/Logo/Logo.js';
 import ImageLinkForm from './Components/ImageLinkForm/ImageLinkForm.js';
 import Rank from './Components/Rank/Rank.js';
 import Clarifai from 'clarifai';
@@ -100,7 +100,7 @@ class App extends Component {
      className="particles"
      params={particleparams} />
      
-     
+     <Logo />
      <Rank />
      <ImageLinkForm 
        onInputChange={this.onInputChange} 
